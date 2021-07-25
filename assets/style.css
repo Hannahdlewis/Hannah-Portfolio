@@ -17,3 +17,9 @@ h1 {
 h3 {
     color: rgb(104, 189, 214);
 }
+
+div {
+    background-color: aqua;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
